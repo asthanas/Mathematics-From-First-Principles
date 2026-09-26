@@ -67,33 +67,33 @@ Mathematical Maturity
 └──────────────────────────────┬───────────────────────────────┘
                                ↓
 ┌──────────────────────────────────────────────────────────────┐
-│                STAGES 01–09 — BUILD                           │
+│                STAGES 01–09 — BUILD                          │
 │ Arithmetic → Algebra → Geometry → Trigonometry → Functions   │
-│                         → Precalculus                         │
+│                         → Precalculus                        │
 └──────────────────────────────┬───────────────────────────────┘
                                ↓
 ┌──────────────────────────────────────────────────────────────┐
-│               STAGES 10–19 — MASTER                           │
-│ Calculus → Multivariable → Linear Algebra → Probability       │
-│ Statistics → Discrete Math → ODE → Numerical Math             │
-│                         → Optimization                         │
+│               STAGES 10–19 — MASTER                          │
+│ Calculus → Multivariable → Linear Algebra → Probability      │
+│ Statistics → Discrete Math → ODE → Numerical Math            │
+│                         → Optimization                       │
 └──────────────────────────────┬───────────────────────────────┘
                                ↓
 ┌──────────────────────────────────────────────────────────────┐
-│               STAGES 20–26 — DEEPEN                            │
-│ Real Analysis → Abstract Algebra → Complex Analysis           │
-│ Information Theory → Math for ML → Advanced AI Mathematics    │
-│                         → Mathematical Modeling                │
+│               STAGES 20–26 — DEEPEN                          │
+│ Real Analysis → Abstract Algebra → Complex Analysis          │
+│ Information Theory → Math for ML → Advanced AI Mathematics   │
+│                         → Mathematical Modeling              │
 └──────────────────────────────┬───────────────────────────────┘
                                ↓
 ┌──────────────────────────────────────────────────────────────┐
-│               STAGES 27–28 — EXPLORE                           │
-│ Quantum Mathematics → Quantum Machine Learning                │
+│               STAGES 27–28 — EXPLORE                         │
+│ Quantum Mathematics → Quantum Machine Learning               │
 └──────────────────────────────┬───────────────────────────────┘
                                ↓
 ┌──────────────────────────────────────────────────────────────┐
-│               STAGES 29–30 — CREATE                            │
-│ Research Capstones → Mathematical Maturity                    │
+│               STAGES 29–30 — CREATE                          │
+│ Research Capstones → Mathematical Maturity                   │
 └──────────────────────────────────────────────────────────────┘
 ```
 

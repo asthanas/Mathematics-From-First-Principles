@@ -5,17 +5,11 @@
 
 ## Weekly
 Monday: Learn
-
 Tuesday: Practice
-
 Wednesday: Derive
-
 Thursday: Implement
-
 Friday: Apply
-
 Saturday: Review
-
 Sunday: Reflect/rest
 
 ## Spaced Review

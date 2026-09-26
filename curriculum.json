@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "00-mathematical-thinking",
+    "readme": "00-mathematical-thinking/README.md"
+  },
+  {
+    "slug": "01-arithmetic-number-systems",
+    "readme": "01-arithmetic-number-systems/README.md"
+  },
+  {
+    "slug": "02-fractions-ratios-percentages",
+    "readme": "02-fractions-ratios-percentages/README.md"
+  },
+  {
+    "slug": "03-pre-algebra",
+    "readme": "03-pre-algebra/README.md"
+  },
+  {
+    "slug": "04-elementary-algebra",
+    "readme": "04-elementary-algebra/README.md"
+  },
+  {
+    "slug": "05-geometry",
+    "readme": "05-geometry/README.md"
+  },
+  {
+    "slug": "06-coordinate-geometry",
+    "readme": "06-coordinate-geometry/README.md"
+  },
+  {
+    "slug": "07-trigonometry",
+    "readme": "07-trigonometry/README.md"
+  },
+  {
+    "slug": "08-functions-graphs",
+    "readme": "08-functions-graphs/README.md"
+  },
+  {
+    "slug": "09-precalculus",
+    "readme": "09-precalculus/README.md"
+  },
+  {
+    "slug": "10-calculus-i",
+    "readme": "10-calculus-i/README.md"
+  },
+  {
+    "slug": "11-calculus-ii",
+    "readme": "11-calculus-ii/README.md"
+  },
+  {
+    "slug": "12-multivariable-calculus",
+    "readme": "12-multivariable-calculus/README.md"
+  },
+  {
+    "slug": "13-linear-algebra",
+    "readme": "13-linear-algebra/README.md"
+  },
+  {
+    "slug": "14-probability",
+    "readme": "14-probability/README.md"
+  },
+  {
+    "slug": "15-statistics",
+    "readme": "15-statistics/README.md"
+  },
+  {
+    "slug": "16-discrete-mathematics",
+    "readme": "16-discrete-mathematics/README.md"
+  },
+  {
+    "slug": "17-differential-equations",
+    "readme": "17-differential-equations/README.md"
+  },
+  {
+    "slug": "18-numerical-mathematics",
+    "readme": "18-numerical-mathematics/README.md"
+  },
+  {
+    "slug": "19-optimization",
+    "readme": "19-optimization/README.md"
+  },
+  {
+    "slug": "20-real-analysis",
+    "readme": "20-real-analysis/README.md"
+  },
+  {
+    "slug": "21-abstract-algebra",
+    "readme": "21-abstract-algebra/README.md"
+  },
+  {
+    "slug": "22-complex-analysis",
+    "readme": "22-complex-analysis/README.md"
+  },
+  {
+    "slug": "23-information-theory",
+    "readme": "23-information-theory/README.md"
+  },
+  {
+    "slug": "24-mathematics-for-machine-learning",
+    "readme": "24-mathematics-for-machine-learning/README.md"
+  },
+  {
+    "slug": "25-advanced-mathematics-for-ai",
+    "readme": "25-advanced-mathematics-for-ai/README.md"
+  },
+  {
+    "slug": "26-mathematical-modeling",
+    "readme": "26-mathematical-modeling/README.md"
+  },
+  {
+    "slug": "27-quantum-mathematics",
+    "readme": "27-quantum-mathematics/README.md"
+  },
+  {
+    "slug": "28-quantum-machine-learning",
+    "readme": "28-quantum-machine-learning/README.md"
+  },
+  {
+    "slug": "29-mathematical-research-capstones",
+    "readme": "29-mathematical-research-capstones/README.md"
+  },
+  {
+    "slug": "30-mathematical-maturity",
+    "readme": "30-mathematical-maturity/README.md"
+  }
+]
